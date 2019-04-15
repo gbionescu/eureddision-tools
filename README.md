@@ -5,7 +5,7 @@ This repository contains tools for managing various types of Eureddision threads
 - File named `config.json` which contains Reddit credentials. The format is the following:
 ```
 {
-	"user": Reddit username to post with,
+    "user": Reddit username to post with,
     "password": Password for the account
 }
 ```
